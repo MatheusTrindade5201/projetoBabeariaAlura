@@ -1,0 +1,99 @@
+
+.principal{
+	width: 100%;
+	position: relative;
+	height: 80%;
+}
+
+.principal p{
+	font-size: 18px;
+	text-align: center;
+	margin: 0 2%;
+	padding: 20px;
+}
+
+.home{
+	width: 100%;
+
+}
+
+.sobre{
+	 
+	 padding-top: 25px ;
+	 position: absolute;
+	 right: 0;
+   width: 60%;
+   display: inline-block;
+   height: 100%;
+   z-index: -1;
+
+}
+
+.banner{
+	width: 40%;
+
+}
+
+.tituloCentralizado{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	color: #000000;
+	padding: 20px 0 ;
+}
+
+h3{
+		text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	color: #FFFFFF;
+}
+
+.sobreABarbearia{
+	text-align: center;
+	padding: 20px 0;
+}
+
+#missao{
+	font-size: 20px;
+	text-align: center;
+}
+
+.beneficios{
+	background: url(beneficios.jpg);
+	padding: 30px;
+	margin-top: -3px;
+}
+
+
+
+.listaBeneficios{
+	
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 15%;
+	color: #FFFFFF;
+}
+
+.listaBeneficios li{
+	padding: 20px 0;
+}
+
+.item{
+	font-size: 25px;
+	transition: 1s;
+}
+
+
+em strong{
+
+	color: 	#AA202E;
+	font-style: italic;
+}
+
+.listaBeneficios li:hover{
+	font-size: 30px;
+	cursor: default;
+}
