@@ -140,9 +140,6 @@ form label, form legend{
 	font-size: 	15px;
 }
 
-#telefone{
-	text-rendering: ;
-}
 
 .checkbox{
 	margin: 20px 0;
@@ -188,7 +185,7 @@ td, th{
 /*CSS da página inicial*/
 
 .banner{
-	width: 100%
+	width: 100%;
 }
 
 .titulo-principal{
@@ -289,7 +286,7 @@ em{
 
 .itens:hover::before{
 	font-size: 25px;
-	transform: rotate(360deg)
+	transform: rotate(360deg);
 }
 
 
