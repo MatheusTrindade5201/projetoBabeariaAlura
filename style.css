@@ -9,6 +9,7 @@ header{
 	padding: 5px 0;
 }
 
+
 .caixa{
 width: 940px;
 position: relative;
@@ -68,7 +69,7 @@ nav a:hover{
 }
 
 .produtos h2{
-	font-size: 30px;
+	font-size: 26px;
 	font-weight: bold;
 	transition: 0.2s;
 }
@@ -95,7 +96,7 @@ nav a:hover{
 }
 
 .produtos li:hover  h2{
-	font-size: 30px;
+	font-size: 28px;
 }
 
 /*Css do rodapé*/
@@ -112,10 +113,6 @@ footer{
 	margin-top: 20px;
 }
 
-main{
-
-	
-}
 
 /*CSS da página de contatos*/
 
@@ -197,7 +194,9 @@ td, th{
 }
 .principal{
 	width: 940px;
-	margin: 0 auto;
+	margin: 2em auto 0 auto;
+	background: #E1E5E8;
+	padding: 10px;
 }
 .principal	p{
 	
@@ -240,7 +239,9 @@ em{
 
 .video{
 	width: 560px;
-	margin: 3em auto;
+	margin: 3em auto 0 auto;
+	padding-bottom: 2em;
+
 }
 
 .conteudo-beneficios{
@@ -253,7 +254,7 @@ em{
 }
 
 .beneficios{
-	background: #cccccc;
+	background: linear-gradient(#cccccc, #6F7376);
 }
 
 .lista-beneficios{
